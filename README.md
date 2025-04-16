@@ -2,6 +2,9 @@
 
 This project is a personal job tracking system designed to manage and analyze my internship and job applications. It combines Excel for data entry with Python, pandas, DuckDB, and machine learning tools for powerful analysis and predictive modeling.
 
+⚠️ Note: This project uses a sample dataset to demonstrate logic and analysis. The real data includes sensitive personal contacts and has not been uploaded to GitHub.
+
+
 ---
 
 ## Tools & Technologies Used
